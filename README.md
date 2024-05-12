@@ -28,5 +28,15 @@ A placa pode ser controlada a partir de comunicação serial USB, ou através da
 ## Implementação
 A aplicação do software é separada em máquina de estados, eventos e variáveis, separando o que seria as implementações de baixo nível que controlam os componentes. Todo o código foi desenvolvido em C, e foi utilizado o compilador xc8, junto à IDE MPLAB X.
 
+## Projeto
+
+![diagrama_estados](docs/DiagramaDeEstados.png)
+
+![diagrama_classes](docs/DiagramaDeClasses.png)
+
 ## Demonstração
-Em breve, adicionarei um vídeo e fotos da placa em funcionamento.
+
+https://github.com/samuellimabraz/BoardBring-Up-PIC18F4550/assets/115582014/2b1a993e-3f2b-4fdc-afaf-4fec497b80d5
+
+
+
